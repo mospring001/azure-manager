@@ -6,6 +6,8 @@ Default VM infomation:
 USERNAME : defaultuser<br>
 PASSWORD : Thisisyour.password1
 
+## 1.Install Python3.9.6
+
 apt update && sudo apt upgrade 
 
 apt install wget build-essential libreadline-gplv2-dev libncursesw5-dev \
