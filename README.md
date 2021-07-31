@@ -21,6 +21,7 @@ cd Python-3.9.6
 
 ./configure --enable-optimizations 
 
+make altinstall 
 
 ## 2.Install Python Library
 
